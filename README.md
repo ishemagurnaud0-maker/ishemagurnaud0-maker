@@ -1,6 +1,6 @@
 ## Hi there 👋
 WEB3 enthusiast!
-
+Full stark developer
 
 
 Here are some ideas to get you started:
