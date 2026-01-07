@@ -1,5 +1,6 @@
 ## Hi there 👋
-WEB3 enthusiast!
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+I'm+Ishema+Gurnaud;Full+Stack+Developer;Backend+%26+Web3+Enthusiast)
+
 
 Full stark developer
 
