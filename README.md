@@ -1,7 +1,7 @@
 # Hi there, I'm Ishema Gurnaud 👋
 ### Full Stack & Web3 Engineer | Smart Contract Auditor
 
-<img src="image_c09cd5.jpg" width="100%" alt="Solana Breakpoint Ishema" />
+http://googleusercontent.com/image_collection/image_retrieval/1739336073674520544_0
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+I'm+Ishema+Gurnaud;Full+Stack+Engineer;Web3+Engineer" alt="Typing SVG" />
