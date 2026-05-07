@@ -1,7 +1,7 @@
 # Hi there, I'm Ishema Gurnaud 👋
 ### Full Stack & Web3 Engineer | Smart Contract Auditor
 
-![Solana Breakpoint](https://github.com/user-attachments/assets/605092aa-4d6a-474d-9ade-d4b703fe6cbd)
+<img src="https://github.com/user-attachments/assets/605092aa-4d6a-474d-9ade-d4b703fe6cbd" width="100%" alt="Solana Breakpoint Ishema" />
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+I'm+Ishema+Gurnaud;Full+Stack+Engineer;Web3+Engineer" alt="Typing SVG" />
@@ -45,5 +45,3 @@ I am a dedicated **Full Stack Engineer** specializing in **Backend & Web3 archit
 
 ---
 
-## 📊 Stats
-![Ishema's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishemagurnaud0-maker&show_icons=true&theme=tokyonight)
